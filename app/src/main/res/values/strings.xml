@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quizz App</string>
+    <string name="hardcodestring">coolValue</string>
+    <string name="click_button">Submit</string>
+    <string name="textBox">Enter your name</string>
+
+</resources>
